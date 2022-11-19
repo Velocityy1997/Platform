@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.11.0",
-    "@vue/cli-service": "^3.11.0",
+    "@vue/cli-service": "^5.0.8",
     "babel-plugin-component": "^1.1.1",
     "bootstrap": "^4.4.1",
     "popper.js": "^1.16.0",
